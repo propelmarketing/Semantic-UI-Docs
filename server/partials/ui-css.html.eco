@@ -49,6 +49,10 @@
 <link rel="stylesheet" type="text/css" class="ui" href="/dist/components/sticky.css">
 <link rel="stylesheet" type="text/css" class="ui" href="/dist/components/tab.css">
 <link rel="stylesheet" type="text/css" class="ui" href="/dist/components/transition.css">
+
+<link rel="stylesheet" type="text/css" class="ui" href="https://s3.amazonaws.com/th-static-cdn/thrivehive/css/style.css">
+<!-- temp hack until hotfix is released in thrivehive -->
+<style>body.pushable { overflow-x: auto !important; }</style>
 <% else: %>
 <link rel="stylesheet" type="text/css" class="ui" href="/dist/semantic.min.css">
 <% end %>
