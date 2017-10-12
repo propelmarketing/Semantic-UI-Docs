@@ -16,6 +16,6 @@
     "docpad-plugin-partials": "~2.9.2"
   },
   "devDependencies": {
-    "docpad-plugin-ghpages": "~2.4.4"
+    "docpad-plugin-ghpages": "~2.4.4"test
   }
 }
